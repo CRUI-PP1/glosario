@@ -1,0 +1,35 @@
+01) Clonar este repositorio
+
+02) Crear un branch de la rama main de este repositorio 
+
+    Nomenclatura del branch: 
+        main_grupo_<numero-grupo>       main_grupo_01 
+
+    Este es el branch donde queda la entrega final
+
+03) Deben crear una copia de main_grupo_01 de la que habian de crear, por concepto de glosario 
+        Ejemplo main_grupo_01_dev 
+        En esta rama es donde pueden interacturar todos los integrantes.
+
+
+04) La rama de main_grupo_01 debe contener todo el texto a agregar, segun como fueron subiendo e integrando todo, este registro debe quedar en git. 
+    En caso de no poder utilizar una cuenta propia, se debe indicar en la descripcion de cada commit el autor. 
+
+    Ej: 
+        (asi aparece en git)
+        <autor>: <desc>
+
+        gui: init 
+        lu: init 
+
+        (asi vamos a nomenclarlo en caso de que un integrante no pueda utilizar su cuenta)
+        <autor>: <autor>-<desc>
+
+        gui: gui-init 
+        lu: lu-init 
+        lu: gui-init2
+        lu: pepe-init3
+
+05) Crear un PR de la rama main_grupo_01 hacia main 
+
+
