@@ -1,17 +1,15 @@
 # LEL | Glosario
 
-[id]:
-[seccion_nombre]:
-[descripcion]:
+id:
+seccion_nombre:
+descripcion:
+link:
 
-[link]:
-
-[id]:
-[seccion]:
-[sigla|nombre]:
-[descripcion]:
-
-[link]:
+id:
+seccion:
+nombre:
+descripcion:
+link:
 
 id: 01
 seccion: GIT
